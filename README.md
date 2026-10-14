@@ -21,7 +21,7 @@ A collection of multi-agent apps I've adapted from open-source projects and run 
 
 ## 🧰 LLM Apps Lab
 
-Six LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](https://github.com/Supp3r-Man/llm-apps-lab)
+Eight LLM apps, six adapted from open-source projects and two original: [**Supp3r-Man/llm-apps-lab**](https://github.com/Supp3r-Man/llm-apps-lab)
 
 | | |
 |---|---|
@@ -31,5 +31,7 @@ Six LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](ht
 | 🔄 **Critique Loop** | Generate, critique and revise an answer for one to three rounds on GPT-OSS |
 | 🧠 **Headroom Demo** | Compress bulky tool output before it reaches the model, with measured token savings |
 | 🎯 **Toonify Demo** | Compare JSON with the compact TOON format, with token counts and a cost calculator |
+| 🍌 **Profile Banner Studio** | *Original.* Generate and refine a GitHub profile banner with Nano Banana |
+| 🖼️ **Repo Social Preview** | *Original.* AI background plus crisp, correctly spelled text for a repo's social image |
 
 <sub>Built on [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
