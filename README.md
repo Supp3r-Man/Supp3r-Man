@@ -19,4 +19,15 @@ A collection of multi-agent apps I've adapted from open-source projects and run 
 | 🎯 **Career Coach** | ADK multi-agent coach that remembers each candidate across sessions with Mem0 |
 | 📅 **Meeting Prep Crew** | CrewAI crew that researches the people and context before a meeting |
 
+## 🧰 LLM Apps Lab
+
+Four LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](https://github.com/Supp3r-Man/llm-apps-lab)
+
+| | |
+|---|---|
+| 🎬 **Video Moment Finder** | Search a video by screenshot or description with Gemini embeddings, no transcription |
+| 🪡 **Needle** | Find-in-page by meaning, as a Chrome extension |
+| 🌊 **Ripple** | Edit one fact in a Google Doc and see which other sentences now disagree |
+| 🔄 **Critique Loop** | Generate, critique and revise an answer for one to three rounds on GPT-OSS |
+
 <sub>Built on [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
