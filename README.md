@@ -13,7 +13,7 @@ A collection of multi-agent apps I've adapted from open-source projects and run 
 | 📰 **HN Research Team** | Agent team that researches HackerNews and drafts posts |
 | ♟️ **Chess Arena** | Two LLM agents play chess, with a referee agent that checks every move |
 | 🔎 **Deep Research** | Web research agent that searches, scrapes and writes a report |
-| 🕵️ **Fraud Investigation** | Agent that gathers evidence on a suspicious case and writes a structured report |
+| 🕵️ **Fraud Investigation** | Cross-checks childcare licensing records against building data to flag capacity anomalies for review |
 | 🤝 **Negotiation Simulator** | Buyer and seller agents with distinct personalities negotiate in a live UI |
 | 🔐 **Trust Layer** | Identity, trust scoring and scoped delegation between agents |
 | 🎯 **Career Coach** | ADK multi-agent coach that remembers each candidate across sessions with Mem0 |
