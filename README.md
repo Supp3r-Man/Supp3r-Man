@@ -21,7 +21,7 @@ A collection of multi-agent apps I've adapted from open-source projects and run 
 
 ## 🧰 LLM Apps Lab
 
-Four LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](https://github.com/Supp3r-Man/llm-apps-lab)
+Six LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](https://github.com/Supp3r-Man/llm-apps-lab)
 
 | | |
 |---|---|
@@ -29,5 +29,7 @@ Four LLM apps adapted from open-source projects: [**Supp3r-Man/llm-apps-lab**](h
 | 🪡 **Needle** | Find-in-page by meaning, as a Chrome extension |
 | 🌊 **Ripple** | Edit one fact in a Google Doc and see which other sentences now disagree |
 | 🔄 **Critique Loop** | Generate, critique and revise an answer for one to three rounds on GPT-OSS |
+| 🧠 **Headroom Demo** | Compress bulky tool output before it reaches the model, with measured token savings |
+| 🎯 **Toonify Demo** | Compare JSON with the compact TOON format, with token counts and a cost calculator |
 
 <sub>Built on [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) (Apache-2.0).</sub>
