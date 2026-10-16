@@ -2,6 +2,18 @@
 
 AI engineer building multi-agent apps.
 
+## 🚀 Forward Deployed Engineering
+
+Five original projects built around what a customer deployment needs: messy data, decisions you can trust, and honest measurement on a held-out split. All data is synthetic, and every README lists its limits.
+
+| | |
+|---|---|
+| 🧾 [**invoice-extract-lab**](https://github.com/Supp3r-Man/invoice-extract-lab) | Extract invoices to JSON, then decide what to trust: confidence, independent validation and a human review queue |
+| 🛡️ [**customer-ops-agent**](https://github.com/Supp3r-Man/customer-ops-agent) | Billing assistant as an MCP server behind one guarded gateway: read-only by default, writes need a human approval token, with an ablation that switches each guardrail off |
+| 💸 [**cash-app-engine**](https://github.com/Supp3r-Man/cash-app-engine) | Match payments to invoices through short-pays, deductions and garbled references, with an explanation per decision and an auto-apply versus error trade-off |
+| 🧩 [**tenant-onboarding-kit**](https://github.com/Supp3r-Man/tenant-onboarding-kit) | Map a new customer's messy exports to a canonical schema, detect schema drift, and load idempotently with dry run and rollback |
+| 🔎 [**rag-tuning-lab**](https://github.com/Supp3r-Man/rag-tuning-lab) | Retrieval over 2.68M Wikipedia passages, tuned and scored on held-out questions on a laptop CPU |
+
 ## 🧪 Agent Lab
 
 Eleven agents, ten adapted from open-source projects and one original: [**Supp3r-Man/agent-lab**](https://github.com/Supp3r-Man/agent-lab)
