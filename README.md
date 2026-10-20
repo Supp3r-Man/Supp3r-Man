@@ -14,6 +14,18 @@ Five original projects built around what a customer deployment needs: messy data
 | 🧩 [**tenant-onboarding-kit**](https://github.com/Supp3r-Man/tenant-onboarding-kit) | Map a new customer's messy exports to a canonical schema, detect schema drift, and load idempotently with dry run and rollback |
 | 🔎 [**rag-tuning-lab**](https://github.com/Supp3r-Man/rag-tuning-lab) | Retrieval over 2.68M Wikipedia passages, tuned and scored on held-out questions on a laptop CPU |
 
+## ☕ Java
+
+Five Java 17 projects on concurrency, a Spring Boot API, event sourcing, resilience and schema migration. Each has a hand-run mutation check and CI on Java 17 and 21; every README lists its limits.
+
+| | |
+|---|---|
+| ☕ [**java-concurrency-lab**](https://github.com/Supp3r-Man/java-concurrency-lab) | Bounded worker pool, atomics versus locks, deadlock detection, a CompletableFuture pipeline and a bounded buffer, with a mutation check on the tests |
+| 🧾 [**spring-boot-orders-api**](https://github.com/Supp3r-Man/spring-boot-orders-api) | Spring Boot 3.4 orders API with idempotency keys, optimistic locking and Problem Details errors; 37 mutations all caught by the tests |
+| 📒 [**java-event-sourcing-ledger**](https://github.com/Supp3r-Man/java-event-sourcing-ledger) | Event-sourced ledger with a saga, snapshots, event upcasting and recovery from a torn log line |
+| 🚦 [**java-http-resilience-gateway**](https://github.com/Supp3r-Man/java-http-resilience-gateway) | Reverse proxy on the JDK HttpServer with a circuit breaker, retry budget and rate limiting; the README shows where the demo does not exercise the breaker |
+| 🗄️ [**java-mini-migrator**](https://github.com/Supp3r-Man/java-mini-migrator) | Flyway-style schema migrator over JDBC and H2: checksums, locking, baseline and repair |
+
 ## 🧪 Agent Lab
 
 Eleven agents, ten adapted from open-source projects and one original: [**Supp3r-Man/agent-lab**](https://github.com/Supp3r-Man/agent-lab)
